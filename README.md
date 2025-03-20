@@ -178,7 +178,7 @@
   <br>
 
   <p align="center">
-    <img src="./readme_image/spam.png" height="255" width="800">
+    <img src="./readme_image/spam.png" height="230" width="700">
   </p>
   <br>
 
