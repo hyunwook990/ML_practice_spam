@@ -183,7 +183,7 @@
   <br>
 
   <p align="center">
-    <img src="./readme_image/ham.png" height="250" width="750">
+    <img src="./readme_image/ham.png" height="230" width="750">
   </p>
   <br>
 
