@@ -38,8 +38,7 @@
 <br>
 
 ---
-# 2. 📜 머신 러닝 절차(파이프라인) 설명
- * 절차를 따라가며 프로젝트 진행상황 설명
+# 2. 📜 머신 러닝 절차(파이프라인)
 
 ## 1) 📊 EDA(Exploratory Data Analysis)
  * 데이터 전처리,인코딩 등
@@ -68,6 +67,10 @@
 ## 3) ✅ 모델 선정
  * 스팸 메일인지 아닌지 이진분류
     ➡️ 분류모델 사용
+  ### 단일 모델
+  ### 1) Logistic Regression
+  ### 2) Decision Tree
+  ### 3) SVM (Support Vector Machine)
 
 
 
