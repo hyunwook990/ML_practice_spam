@@ -80,7 +80,7 @@
 
   ### GridSearchCV
   <p align="center">
-    <img src="./readme_image/best_param.png" height="250" width="750">
+    <img src="./readme_image/best_param.png" height="280" width="750">
   </p>
 
   <div align="center">
