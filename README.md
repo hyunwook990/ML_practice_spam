@@ -131,13 +131,13 @@
   </div>
   <br>
 
-  ### Logistic Regression
+  ### KNN
   <p align="center">
-    <img src="./readme_image/linear_regression.png" height="50" width="500">
+    <img src="./readme_image/knn.png" height="50" width="500">
   </p>
 
   <div align="center">
-    그림 4.2 Logistic Regression precision, recall
+    그림 4.2 KNN precision, recall
   </div>
   <br>
 
@@ -151,25 +151,24 @@
   </div>
   <br>
 
+  ### Logistic Regression
+  <p align="center">
+    <img src="./readme_image/linear_regression.png" height="50" width="500">
+  </p>
+
+  <div align="center">
+    그림 4.4 Logistic Regression precision, recall
+  </div>
+  <br>
+
   ### SVM (Support Vector Machine)
   <p align="center">
     <img src="./readme_image/svm.png" height="50" width="570">
   </p>
 
   <div align="center">
-    그림 4.4 SVM precision, recall
+    그림 4.5 SVM precision, recall
   </div>
-  <br>
-
-  ### KNN
-  <p align="center">
-    <img src="./readme_image/knn.png" height="50" width="500">
-  </p>
-
-  <div align="center">
-    그림 4.5 KNN precision, recall
-  </div>
-  <br>
 
   ### Hist Gradient Boosting
   <p align="center">
