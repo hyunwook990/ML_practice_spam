@@ -138,15 +138,6 @@
   </div>
   <br>
 
-  <p align="center">
-    <img src="./readme_image/hardvoting.png" height="50" width="650">
-  </p>
-
-  <div align="center">
-    그림 4.5 Voting clf precision, recall
-  </div>
-  <br>
-
   ### KNN
   <p align="center">
     <img src="./readme_image/knn.png" height="50" width="500">
@@ -180,11 +171,20 @@
   ### Voting
 
   <p align="center">
-    <img src="./readme_image/votingclf.png" height="250" width="400">
+    <img src="./readme_image/votingclf.png" height="250" width="600">
   </p>
 
   <div align="center">
     그림 4.9 voting_clf
+  </div>
+  <br>
+
+  <p align="center">
+    <img src="./readme_image/hardvoting.png" height="50" width="650">
+  </p>
+
+  <div align="center">
+    그림 4.5 Voting clf precision, recall
   </div>
   <br>
 
