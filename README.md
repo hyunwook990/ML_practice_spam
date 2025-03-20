@@ -87,6 +87,7 @@
     그림 4.1 최적의 파라미터 탐색
   </div>
   <br>
+
   ```python
   from sklearn.model_selection import RandomizedSearchCV
 
@@ -99,6 +100,7 @@
     
       model_best_params.append(rd_search.best_params_)
       model_best_estimators.append(rd_search.best_estimator_)
+  ```
 
 
   ### Logistic Regression
