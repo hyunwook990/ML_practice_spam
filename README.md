@@ -172,7 +172,7 @@
 ---
 
   <p align="center">
-    <img src="./readme_image/spamorham.png" height="150" width="900">
+    <img src="./readme_image/spamorham.png" height="150" width="1500">
   </p>
 
   <div align="center">
