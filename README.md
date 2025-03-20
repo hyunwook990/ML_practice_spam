@@ -78,6 +78,7 @@
 
 ## 4) 📈 학습 및 평가
 
+  ### RandomizedSearchCV
 
   ```python
   from sklearn.model_selection import RandomizedSearchCV
@@ -93,7 +94,6 @@
       model_best_estimators.append(rd_search.best_estimator_)
   ```
 
-  ### RandomizedSearchCV
   <p align="center">
     <img src="./readme_image/best_param.png" height="280" width="750">
   </p>
