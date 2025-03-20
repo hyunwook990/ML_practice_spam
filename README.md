@@ -1,5 +1,8 @@
 # SKN011-ML-6Team
 <br />
+
+# 👤 팀원 소개
+
 <table>
   <thead>
     <td align="center">
