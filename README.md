@@ -100,7 +100,7 @@
   <br>
 
   <p align="center">
-    <img src="./readme_image/best_param.png" height="280" width="750">
+    <img src="./readme_image/bestparam.png" height="250" width="750">
   </p>
 
   <div align="center">
@@ -138,24 +138,12 @@
   </div>
   <br>
 
-  ### Voting
-
-  <p align="center">
-    <img src="./readme_image/votingclf.png" height="250" width="400">
-  </p>
-
-  <div align="center">
-    그림 4.5 voting_clf
-  </div>
-  <br>
-
-
   <p align="center">
     <img src="./readme_image/hardvoting.png" height="50" width="650">
   </p>
 
   <div align="center">
-    그림 4.6 Voting clf precision, recall
+    그림 4.5 Voting clf precision, recall
   </div>
   <br>
 
@@ -165,7 +153,7 @@
   </p>
 
   <div align="center">
-    그림 4.7 KNN precision, recall
+    그림 4.6 KNN precision, recall
   </div>
   <br>
 
@@ -175,7 +163,7 @@
   </p>
 
   <div align="center">
-    그림 4.8 Hist Gradient Boosting precision, recall
+    그림 4.7 Hist Gradient Boosting precision, recall
   </div>
   <br>
 
@@ -185,7 +173,18 @@
   </p>
 
   <div align="center">
-    그림 4.9 XGBoost precision, recall
+    그림 4.8 XGBoost precision, recall
+  </div>
+  <br>
+
+  ### Voting
+
+  <p align="center">
+    <img src="./readme_image/votingclf.png" height="250" width="400">
+  </p>
+
+  <div align="center">
+    그림 4.9 voting_clf
   </div>
   <br>
 
