@@ -94,6 +94,11 @@
       model_best_estimators.append(rd_search.best_estimator_)
   ```
 
+  <div align="center">
+    코드
+  </div>
+  <br>
+
   <p align="center">
     <img src="./readme_image/best_param.png" height="280" width="750">
   </p>
