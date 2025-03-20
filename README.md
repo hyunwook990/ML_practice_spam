@@ -172,14 +172,14 @@
 ---
 
   <p align="center">
-    <img src="./readme_image/spamorham.png" height="150" width="1500">
+    <img src="./readme_image/spam.png" height="350" width="700">
   </p>
-
-  <div align="center">
-    그림 4.8 XGBoost precision, recall
-  </div>
   <br>
 
+  <p align="center">
+    <img src="./readme_image/ham.png" height="250" width="700">
+  </p>
+  <br>
 ---
 
 # 3. 🧩 결론
