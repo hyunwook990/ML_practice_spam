@@ -45,17 +45,18 @@
  * 데이터 전처리,인코딩 등
  * 이전 프로젝트의 진행내역 사용
 <p align="center">
-  <img src="./readme_image/word_heatmap_2.png" height="260" width="280">
+  <img src="./readme_image/word_heatmap_2.png" height="350" width="350">
 </p>
 
 <div align="center">
-  그림 2.1.1 이전 프로젝트 개요 
+  그림 2.1.1 EDA 프로젝트 개요 
 </div>
 <br>
 
 ### 2) 💡 데이터 분류
  * 학습 데이터, 테스트 데이터를 분류 (보통 7:3)
- * 
+ * 주요 매개변수
+  * stratify
 ### 3) ⁉️ 데이터의 주요 문제
 
  * 데이터 내 결측치 존재  
