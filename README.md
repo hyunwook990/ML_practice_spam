@@ -67,8 +67,8 @@
 ## 3) ✅ 모델 선정
  * 스팸 메일인지 아닌지 이진분류 ➡️ 분류모델 사용
   ### **단일 모델**
-  
-  ### 1) Logistic Regression
+
+  ### Logistic Regression
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
   </p>
@@ -78,7 +78,7 @@
   </div>
   <br>
 
-  ### 2) Decision Tree
+  ### Decision Tree
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
   </p>
@@ -88,7 +88,7 @@
   </div>
   <br>
 
-  ### 3) SVM (Support Vector Machine)
+  ### SVM (Support Vector Machine)
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
   </p>
@@ -98,9 +98,7 @@
   </div>
   <br>
 
-  ### **앙상블 학습**
-
-  ### 1) Random Forest
+  ### Voting
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
   </p>
@@ -110,7 +108,7 @@
   </div>
   <br>
 
-  ### 2) Gradient Boosting
+  ### Gradient Boosting
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
   </p>
@@ -119,7 +117,8 @@
     그림 2.2.1 EDA 프로젝트 개요 
   </div>
   <br>
-  ### 3) Hist Gradient Boosting
+
+  ### Hist Gradient Boosting
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
   </p>
@@ -128,25 +127,8 @@
     그림 2.2.2 EDA 프로젝트 개요 
   </div>
   <br>
-  ### 4) XGBoost
-  <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
-  </p>
 
-  <div align="center">
-    그림 2.2.3 EDA 프로젝트 개요 
-  </div>
-  <br>
-  ### 5) LightGBM
-  <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
-  </p>
-
-  <div align="center">
-    그림 2.2.3 EDA 프로젝트 개요 
-  </div>
-  <br>
-  ### 6) Voting
+  ### XGBoost
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
   </p>
@@ -156,6 +138,26 @@
   </div>
   <br>
 
+  ### LightGBM
+  <p align="center">
+    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
+  </p>
+
+  <div align="center">
+    그림 2.2.3 EDA 프로젝트 개요 
+  </div>
+  <br>
+
+
+  ### Random Forest
+  <p align="center">
+    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
+  </p>
+
+  <div align="center">
+    그림 2.2.3 EDA 프로젝트 개요 
+  </div>
+  <br>
 
 
 ---
