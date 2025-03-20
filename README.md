@@ -144,7 +144,7 @@
   </p>
 
   <div align="center">
-    그림 4.6 KNN precision, recall
+    그림 4.5 KNN precision, recall
   </div>
   <br>
 
@@ -154,7 +154,7 @@
   </p>
 
   <div align="center">
-    그림 4.7 Hist Gradient Boosting precision, recall
+    그림 4.6 Hist Gradient Boosting precision, recall
   </div>
   <br>
 
@@ -164,7 +164,7 @@
   </p>
 
   <div align="center">
-    그림 4.8 XGBoost precision, recall
+    그림 4.7 XGBoost precision, recall
   </div>
   <br>
 
@@ -175,7 +175,7 @@
   </p>
 
   <div align="center">
-    그림 4.9 voting_clf
+    그림 4.8 voting_clf
   </div>
   <br>
 
@@ -184,7 +184,7 @@
   </p>
 
   <div align="center">
-    그림 4.5 Voting clf precision, recall
+    그림 4.9 Voting clf precision, recall
   </div>
   <br>
 
