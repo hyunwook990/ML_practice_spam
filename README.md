@@ -95,7 +95,7 @@
   ```
 
   <div align="center">
-    코드
+  
   </div>
   <br>
 
@@ -104,7 +104,7 @@
   </p>
 
   <div align="center">
-    그림 4.1 최적의 파라미터 탐색
+    그림 4.1 최적의 파라미터 탐색 결과
   </div>
   <br>
 
@@ -114,7 +114,7 @@
   </p>
 
   <div align="center">
-    그림 4.1 Logistic Regression precision, recall
+    그림 4.2 Logistic Regression precision, recall
   </div>
   <br>
 
@@ -124,7 +124,7 @@
   </p>
 
   <div align="center">
-    그림 4.2 Decision Tree precision, recall
+    그림 4.3 Decision Tree precision, recall
   </div>
   <br>
 
@@ -134,7 +134,7 @@
   </p>
 
   <div align="center">
-    그림 4.3 SVM precision, recall
+    그림 4.4 SVM precision, recall
   </div>
   <br>
 
@@ -145,7 +145,7 @@
   </p>
 
   <div align="center">
-    그림 4.4 voting_clf
+    그림 4.5 voting_clf
   </div>
   <br>
 
@@ -155,7 +155,7 @@
   </p>
 
   <div align="center">
-    그림 4.5 Voting clf precision, recall
+    그림 4.6 Voting clf precision, recall
   </div>
   <br>
 
@@ -165,7 +165,7 @@
   </p>
 
   <div align="center">
-    그림 4.6 KNN precision, recall
+    그림 4.7 KNN precision, recall
   </div>
   <br>
 
@@ -175,7 +175,7 @@
   </p>
 
   <div align="center">
-    그림 4.7 Hist Gradient Boosting precision, recall
+    그림 4.8 Hist Gradient Boosting precision, recall
   </div>
   <br>
 
@@ -185,14 +185,23 @@
   </p>
 
   <div align="center">
-    그림 4.8 XGBoost precision, recall
+    그림 4.9 XGBoost precision, recall
   </div>
   <br>
 
 ---
 
   <p align="center">
-    <img src="./readme_image/importance.png" height="500" width="900">
+    <img src="./readme_image/featureimportance.pdf" height="500" width="500">
+  </p>
+
+  <div align="center">
+    그림 4.9 XGBoost precision, recall
+  </div>
+  <br>
+
+  <p align="center">
+    <img src="./readme_image/importance_w.png" height="500" width="900">
   </p>
   <br>
 
