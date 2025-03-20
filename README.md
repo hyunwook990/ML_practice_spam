@@ -178,12 +178,12 @@
   <br>
 
   <p align="center">
-    <img src="./readme_image/spam.png" height="230" width="700">
+    <img src="./readme_image/spam.png" height="230" width="600">
   </p>
   <br>
 
   <p align="center">
-    <img src="./readme_image/ham.png" height="250" width="700">
+    <img src="./readme_image/ham.png" height="250" width="750">
   </p>
   <br>
 
