@@ -111,7 +111,7 @@
   ### Voting
 
   <p align="center">
-    <img src="./readme_image/votingclf.png" height="350" width="300">
+    <img src="./readme_image/votingclf.png" height="300" width="350">
   </p>
 
   <div align="center">
