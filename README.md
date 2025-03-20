@@ -169,7 +169,7 @@
     그림 4.8 XGBoost precision, recall
   </div>
   <br>
-  
+
 ---
 
   <p align="center">
@@ -178,7 +178,7 @@
   <br>
 
   <p align="center">
-    <img src="./readme_image/ham.png" height="100" width="800">
+    <img src="./readme_image/ham.png" height="100" width="700">
   </p>
   <br>
 ---
