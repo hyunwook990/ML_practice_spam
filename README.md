@@ -111,7 +111,7 @@
   ### Voting
 
   <p align="center">
-    <img src="./readme_image/votingclf.png" height="300" width="350">
+    <img src="./readme_image/votingclf.png" height="300" width="400">
   </p>
 
   <div align="center">
@@ -121,7 +121,7 @@
 
 
   <p align="center">
-    <img src="./readme_image/hardvoting.png" height="50" width="500">
+    <img src="./readme_image/hardvoting.png" height="50" width="550">
   </p>
 
   <div align="center">
@@ -141,7 +141,7 @@
 
   ### Hist Gradient Boosting
   <p align="center">
-    <img src="./readme_image/hist.png" height="50" width="500">
+    <img src="./readme_image/hist.png" height="50" width="550">
   </p>
 
   <div align="center">
