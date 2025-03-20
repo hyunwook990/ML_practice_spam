@@ -33,66 +33,29 @@
 </p>
 
 <div align="center">
-  그림 1.1 언어 데이터가 가지는 단어간 상호관계 예시
+  그림 1.1 스팸 메일 분류 이해를 도울 그림
 </div>
 <br>
 
 ---
-## 2. 📜 데이터 확인
-데이터 출처: https://archive.ics.uci.edu/dataset/94/spambase
+## 2. 📜 머신 러닝 절차(파이프라인) 설명
+ * 절차를 따라가며 프로젝트 진행상황 설명
 
-### 1) 🚫 스팸 데이터 특성 파악
- * 특정 단어의 빈도높은 반복 (예: 주식 등)
+### 1) 🚫 EDA(Exploratory Data Analysis)
+ * 데이터 전처리,인코딩 등
+ * 이전 프로젝트의 진행내역 사용
 <p align="center">
-  <img src="./readme_image/스팸타입1.jpg" height="260" width="280">
+  <img src="./readme_image/word_heatmap_2.png" height="260" width="280">
 </p>
 
 <div align="center">
-  그림 2.1 초기 스팸 데이터 형식
+  그림 2.1.1 이전 프로젝트 개요 
 </div>
 <br>
 
-* 단어 인식 혼동을 유발하는 비문 사용 (예: ㅈrㅁ금, ㅎrㄴr 등)
-* 과도한 특수문자 사용 (예: *, [] 등)
-  
-<p align="center">
-  <img src="./readme_image/스팸타입2.jpg" height="280" width="650">
-</p>
-
-<div align="center">
-  그림 2.2 광고 유형별 변칙 표기 사례
-</div>
-<br>
-
-### 2) 💡 데이터 도큐맨테이션
-**① 총 4601개의 서로 다른 스팸 메일 분석 데이터 (행: 4601개)**
-
-**② 총 58개의 서로 다른 데이터 속성 (열: 58개)**  
-&nbsp;&nbsp;&nbsp;**i. 단어 빈도 (word frequency) 속성 (48개)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  특정 단어가 이메일에서 차지하는 비율 (0~1 사이의 float 타입)  
-  
-&nbsp;&nbsp;&nbsp;**ii. 문자 빈도 (character frequency) 속성 (6개)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  특정 특수문자가 이메일에서 차지하는 비율 (0~1 사이의 float 타입)  
-  
-&nbsp;&nbsp;&nbsp;**iii. 대문자 연속 속성 (3개)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  연속된 대문자 시퀀스의 평균 길이 (1 이상의 float 타입)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  가장 긴 연속된 대문자 시퀀스 길이 (1 이상의 int 타입)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  이메일 내 대문자 개수의 총합 (1 이상의 int 타입)  
-  
-&nbsp;&nbsp;&nbsp;**iv. 클래스 속성 (1개)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  이메일의 스팸 여부를 나타내는 속성 (0, 1)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  0: 일반 이메일  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  1: 스팸 이메일  
-
-<p align="center">
-  <img src="./readme_image/초기 데이터 프레임.png" height="120" width="1000">
-</p>
-
-<div align="center">
-  그림 2.3 스팸메일 구별 데이터프레임 개요
-</div>
-<br>
-
+### 2) 💡 데이터 분류
+ * 학습 데이터, 테스트 데이터를 분류 (보통 7:3)
+ * 
 ### 3) ⁉️ 데이터의 주요 문제
 
  * 데이터 내 결측치 존재  
