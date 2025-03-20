@@ -18,7 +18,7 @@
     3) 모델 선정
     4) 학습 및 평가
     5) 피드백
-2. 결론
+3. 결론
    
 <br>
 
@@ -66,98 +66,103 @@
 
 ## 3) ✅ 모델 선정
  * 스팸 메일인지 아닌지 이진분류 ➡️ 분류모델 사용
-  ### **단일 모델**
-
-  ### Logistic Regression
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
   </p>
 
   <div align="center">
-    그림 2.2.1 EDA 프로젝트 개요 
+    그림 3.1 EDA 프로젝트 개요 
+  </div>
+  <br>
+
+
+## 4) 📈 학습 및 평가
+
+  ### Logistic Regression
+  <p align="center">
+    <img src="./readme_image/linear_regression.png" height="300" width="350">
+  </p>
+
+  <div align="center">
+    그림 4.1 precision: 0.915068, recall: 0.920110
   </div>
   <br>
 
   ### Decision Tree
   <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
+    <img src="./readme_image/decision_tree.png" height="300" width="350">
   </p>
 
   <div align="center">
-    그림 2.2.2 EDA 프로젝트 개요 
+    그림 4.2 precision: 0.920732, recall: 0.831956
   </div>
   <br>
 
   ### SVM (Support Vector Machine)
   <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
+    <img src="./readme_image/svm.png" height="300" width="350">
   </p>
 
   <div align="center">
-    그림 2.2.3 EDA 프로젝트 개요 
+    그림 4.3 precision: 0.928375, recall: 0.928375
   </div>
   <br>
 
   ### Voting
+
   <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
+    <img src="./readme_image/votingclf.png" height="300" width="350">
   </p>
 
   <div align="center">
-    그림 2.2.3 EDA 프로젝트 개요 
+    그림 4.4 voting_clf
   </div>
   <br>
 
-  ### Gradient Boosting
+
   <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
+    <img src="./readme_image/hardvoting.png" height="300" width="350">
   </p>
 
   <div align="center">
-    그림 2.2.1 EDA 프로젝트 개요 
+    그림 4.5 precision: 0.959427 recall: 0.873913
+  </div>
+  <br>
+
+  ### KNN
+  <p align="center">
+    <img src="./readme_image/knn.png" height="300" width="350">
+  </p>
+
+  <div align="center">
+    그림 4.6 precision: 0.881844, recall: 0.842975
   </div>
   <br>
 
   ### Hist Gradient Boosting
   <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
+    <img src="./readme_image/hist.png" height="300" width="350">
   </p>
 
   <div align="center">
-    그림 2.2.2 EDA 프로젝트 개요 
+    그림 4.7 precision: 0.942466, recall: 0.947658
   </div>
   <br>
 
   ### XGBoost
   <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
+    <img src="./readme_image/xgboost.png" height="300" width="350">
   </p>
 
   <div align="center">
-    그림 2.2.3 EDA 프로젝트 개요 
+    그림 4.8 precision: 0.940054, recall: 0.950413
   </div>
   <br>
 
-  ### LightGBM
-  <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
-  </p>
+---
 
-  <div align="center">
-    그림 2.2.3 EDA 프로젝트 개요 
-  </div>
-  <br>
-
-
-  ### Random Forest
-  <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
-  </p>
-
-  <div align="center">
-    그림 2.2.3 EDA 프로젝트 개요 
-  </div>
-  <br>
-
+# 3.🧩 결론
+ 
+ **- 지난 EDA프로젝의 결론 중**
 
 ---
