@@ -78,6 +78,17 @@
 
 ## 4) 📈 학습 및 평가
 
+  ### GridSearchCV
+  <p align="center">
+    <img src="./readme_image/best_param.png" height="250" width="500">
+  </p>
+
+  <div align="center">
+    그림 4.1 최적의 파라미터 탐색
+  </div>
+  <br>
+
+
   ### Logistic Regression
   <p align="center">
     <img src="./readme_image/linear_regression.png" height="50" width="500">
