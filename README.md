@@ -67,6 +67,7 @@
 ## 3) ✅ 모델 선정
  * 스팸 메일인지 아닌지 이진분류 ➡️ 분류모델 사용
   ### **단일 모델**
+  
   ### 1) Logistic Regression
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
@@ -76,6 +77,7 @@
     그림 2.2.1 EDA 프로젝트 개요 
   </div>
   <br>
+
   ### 2) Decision Tree
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
@@ -85,6 +87,7 @@
     그림 2.2.2 EDA 프로젝트 개요 
   </div>
   <br>
+
   ### 3) SVM (Support Vector Machine)
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
@@ -94,7 +97,9 @@
     그림 2.2.3 EDA 프로젝트 개요 
   </div>
   <br>
+
   ### **앙상블 학습**
+
   ### 1) Random Forest
   <p align="center">
     <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
