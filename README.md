@@ -67,7 +67,7 @@
 ## 3) ✅ 모델 선정
  * 스팸 메일인지 아닌지 이진분류 ➡️ 분류모델 사용
   <p align="center">
-    <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
+    <img src="./readme_image/binaryclassification.png" height="300" width="350">
   </p>
 
   <div align="center">
@@ -161,7 +161,7 @@
 
 ---
 
-# 3.🧩 결론
+# 3. 🧩 결론
  
  **- 지난 EDA프로젝의 결론 중**
 
