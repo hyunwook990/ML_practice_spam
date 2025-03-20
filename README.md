@@ -173,14 +173,20 @@
 ---
 
   <p align="center">
-    <img src="./readme_image/spam.png" height="185" width="900">
+    <img src="./readme_image/importance.png" height="800" width="900">
   </p>
   <br>
 
   <p align="center">
-    <img src="./readme_image/ham.png" height="100" width="700">
+    <img src="./readme_image/spam.png" height="255" width="900">
   </p>
   <br>
+
+  <p align="center">
+    <img src="./readme_image/ham.png" height="200" width="700">
+  </p>
+  <br>
+
 ---
 
 # 3. 🧩 결론
