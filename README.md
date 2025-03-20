@@ -78,15 +78,6 @@
 
 ## 4) 📈 학습 및 평가
 
-  ### GridSearchCV
-  <p align="center">
-    <img src="./readme_image/best_param.png" height="280" width="750">
-  </p>
-
-  <div align="center">
-    그림 4.1 최적의 파라미터 탐색
-  </div>
-  <br>
 
   ```python
   from sklearn.model_selection import RandomizedSearchCV
@@ -102,6 +93,15 @@
       model_best_estimators.append(rd_search.best_estimator_)
   ```
 
+  ### RandomizedSearchCV
+  <p align="center">
+    <img src="./readme_image/best_param.png" height="280" width="750">
+  </p>
+
+  <div align="center">
+    그림 4.1 최적의 파라미터 탐색
+  </div>
+  <br>
 
   ### Logistic Regression
   <p align="center">
