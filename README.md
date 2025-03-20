@@ -84,7 +84,7 @@
   </p>
 
   <div align="center">
-    그림 4.1 precision: 0.915068, recall: 0.920110
+    그림 4.1 Logistic Regression precision, recall
   </div>
   <br>
 
@@ -94,7 +94,7 @@
   </p>
 
   <div align="center">
-    그림 4.2 precision: 0.920732, recall: 0.831956
+    그림 4.2 Decision Tree precision, recall
   </div>
   <br>
 
@@ -104,7 +104,7 @@
   </p>
 
   <div align="center">
-    그림 4.3 precision: 0.928375, recall: 0.928375
+    그림 4.3 SVM precision, recall
   </div>
   <br>
 
@@ -125,7 +125,7 @@
   </p>
 
   <div align="center">
-    그림 4.5 precision: 0.959427 recall: 0.873913
+    그림 4.5 Voting clf precision, recall
   </div>
   <br>
 
@@ -135,7 +135,7 @@
   </p>
 
   <div align="center">
-    그림 4.6 precision: 0.881844, recall: 0.842975
+    그림 4.6 KNN precision, recall
   </div>
   <br>
 
@@ -145,7 +145,7 @@
   </p>
 
   <div align="center">
-    그림 4.7 precision: 0.942466, recall: 0.947658
+    그림 4.7 Hist Gradient Boosting precision, recall
   </div>
   <br>
 
@@ -155,7 +155,7 @@
   </p>
 
   <div align="center">
-    그림 4.8 precision: 0.940054, recall: 0.950413
+    그림 4.8 XGBoost precision, recall
   </div>
   <br>
 
