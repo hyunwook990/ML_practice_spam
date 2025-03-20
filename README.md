@@ -100,7 +100,7 @@
 
   ### SVM (Support Vector Machine)
   <p align="center">
-    <img src="./readme_image/svm.png" height="50" width="530">
+    <img src="./readme_image/svm.png" height="50" width="570">
   </p>
 
   <div align="center">
@@ -121,7 +121,7 @@
 
 
   <p align="center">
-    <img src="./readme_image/hardvoting.png" height="50" width="600">
+    <img src="./readme_image/hardvoting.png" height="50" width="650">
   </p>
 
   <div align="center">
