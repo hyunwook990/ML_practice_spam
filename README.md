@@ -80,7 +80,7 @@
 
   ### Logistic Regression
   <p align="center">
-    <img src="./readme_image/linear_regression.png" height="70" width="500">
+    <img src="./readme_image/linear_regression.png" height="50" width="500">
   </p>
 
   <div align="center">
