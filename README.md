@@ -236,6 +236,11 @@
   </p>
   <br>
 
+<p align="center">
+    <img src="./readme_image/ham2.png" height="230" width="750">
+  </p>
+  <br>
+
 ---
 
 # 3. 🧩 결론
