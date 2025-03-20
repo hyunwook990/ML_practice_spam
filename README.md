@@ -41,11 +41,11 @@
 ## 2. 📜 머신 러닝 절차(파이프라인) 설명
  * 절차를 따라가며 프로젝트 진행상황 설명
 
-### 1) 🚫 EDA(Exploratory Data Analysis)
+### 1) 📊 EDA(Exploratory Data Analysis)
  * 데이터 전처리,인코딩 등
  * 이전 프로젝트의 진행내역 사용
 <p align="center">
-  <img src="./readme_image/word_heatmap_2.png" height="350" width="350">
+  <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
 </p>
 
 <div align="center">
@@ -53,10 +53,10 @@
 </div>
 <br>
 
-### 2) 💡 데이터 분류
+### 2) 📑 데이터 분류
  * 학습 데이터, 테스트 데이터를 분류 (보통 7:3)
  * 주요 매개변수
-  * stratify
+    * stratify
 ### 3) ⁉️ 데이터의 주요 문제
 
 ---
