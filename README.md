@@ -90,7 +90,7 @@
 
   ### Decision Tree
   <p align="center">
-    <img src="./readme_image/decision_tree.png" height="300" width="350">
+    <img src="./readme_image/decision_tree.png" height="50" width="500">
   </p>
 
   <div align="center">
@@ -100,7 +100,7 @@
 
   ### SVM (Support Vector Machine)
   <p align="center">
-    <img src="./readme_image/svm.png" height="300" width="350">
+    <img src="./readme_image/svm.png" height="50" width="500">
   </p>
 
   <div align="center">
@@ -111,7 +111,7 @@
   ### Voting
 
   <p align="center">
-    <img src="./readme_image/votingclf.png" height="300" width="350">
+    <img src="./readme_image/votingclf.png" height="350" width="300">
   </p>
 
   <div align="center">
@@ -121,7 +121,7 @@
 
 
   <p align="center">
-    <img src="./readme_image/hardvoting.png" height="300" width="350">
+    <img src="./readme_image/hardvoting.png" height="50" width="500">
   </p>
 
   <div align="center">
@@ -131,7 +131,7 @@
 
   ### KNN
   <p align="center">
-    <img src="./readme_image/knn.png" height="300" width="350">
+    <img src="./readme_image/knn.png" height="50" width="500">
   </p>
 
   <div align="center">
@@ -141,7 +141,7 @@
 
   ### Hist Gradient Boosting
   <p align="center">
-    <img src="./readme_image/hist.png" height="300" width="350">
+    <img src="./readme_image/hist.png" height="50" width="500">
   </p>
 
   <div align="center">
@@ -151,7 +151,7 @@
 
   ### XGBoost
   <p align="center">
-    <img src="./readme_image/xgboost.png" height="300" width="350">
+    <img src="./readme_image/xgboost.png" height="50" width="500">
   </p>
 
   <div align="center">
