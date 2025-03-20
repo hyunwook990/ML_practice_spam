@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="./readme_image/spam_filter.jpg" height="450" width="450">
+  <img src="./readme_image/spam_filter.jpg" height="300" width="450">
 </p>
 
 <div align="center">
