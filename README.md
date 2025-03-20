@@ -192,7 +192,7 @@
 ---
 
   <p align="center">
-    <img src="./readme_image/feature_importances.png" height="700" width="500">
+    <img src="./readme_image/feature_importances.png" height="1200" width="700">
   </p>
 
   <div align="center">
