@@ -87,6 +87,18 @@
     그림 4.1 최적의 파라미터 탐색
   </div>
   <br>
+  ```python
+  from sklearn.model_selection import RandomizedSearchCV
+
+  model_best_params = []
+  model_best_estimators = []
+
+  for idx, model_ in enumerate(models_names):
+      rd_search = RandomizedSearchCV(model_, model_params[idx], cv=5, n_iter=100, random_state=0)
+      rd_search.fit(X_train, y_train)
+    
+      model_best_params.append(rd_search.best_params_)
+      model_best_estimators.append(rd_search.best_estimator_)
 
 
   ### Logistic Regression
