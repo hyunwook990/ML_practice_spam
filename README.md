@@ -67,11 +67,11 @@
 ## 3) ✅ 모델 선정
  * 스팸 메일인지 아닌지 이진분류 ➡️ 분류모델 사용
   <p align="center">
-    <img src="./readme_image/binaryclassification.png" height="300" width="350">
+    <img src="./readme_image/binaryclassification.png" height="300" width="450">
   </p>
 
   <div align="center">
-    그림 3.1 EDA 프로젝트 개요 
+    그림 3.1 이진분류 이미지
   </div>
   <br>
 
