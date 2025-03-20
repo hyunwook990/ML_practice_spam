@@ -100,7 +100,7 @@
 
   ### SVM (Support Vector Machine)
   <p align="center">
-    <img src="./readme_image/svm.png" height="50" width="500">
+    <img src="./readme_image/svm.png" height="50" width="530">
   </p>
 
   <div align="center">
@@ -111,7 +111,7 @@
   ### Voting
 
   <p align="center">
-    <img src="./readme_image/votingclf.png" height="300" width="400">
+    <img src="./readme_image/votingclf.png" height="250" width="400">
   </p>
 
   <div align="center">
@@ -121,7 +121,7 @@
 
 
   <p align="center">
-    <img src="./readme_image/hardvoting.png" height="50" width="550">
+    <img src="./readme_image/hardvoting.png" height="50" width="600">
   </p>
 
   <div align="center">
