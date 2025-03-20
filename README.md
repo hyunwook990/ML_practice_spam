@@ -172,12 +172,12 @@
 ---
 
   <p align="center">
-    <img src="./readme_image/spam.png" height="250" width="900">
+    <img src="./readme_image/spam.png" height="200" width="900">
   </p>
   <br>
 
   <p align="center">
-    <img src="./readme_image/ham.png" height="150" width="900">
+    <img src="./readme_image/ham.png" height="130" width="900">
   </p>
   <br>
 ---
