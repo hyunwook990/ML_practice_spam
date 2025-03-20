@@ -1,13 +1,33 @@
 # SKN011-ML-6Team
-- 이현민
-- 정현욱
-- 홍성욱
+<br />
+<table>
+  <thead>
+    <td align="center">
+      <a href="https://github.com/hyunmin6109">
+        <img src="https://github.com/hyunmin6109.png" width="150" alt="hyunmin"/><br /><hr/>
+        이현민
+      </a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/hyunwook990">
+        <img src="https://github.com/hyunwook990.png" width="150" alt="hyunwook"/><br /><hr/>
+        정현욱
+      </a><br />    
+    <td align="center">
+      <a href="https://github.com/Sung-WookHong">
+        <img src="https://github.com/Sung-WookHong.png" width="150" alt="sungwook"/><br /><hr/>
+        홍성욱
+      </a><br />
+    </td>
+  </thead>
+</table>
+<br /><br />
 
   <br>
   
 📅기간: 2025.03.14 ~ 2025.03.21
 ---
-# 📧스팸메일 구별을 위한 탐색적 데이터 분석 (EDA)
+# 📧 탐색적 데이터 분석을 통한 스팸메일 예측
 <br>
 
 ## 목차
