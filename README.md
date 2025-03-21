@@ -276,3 +276,11 @@ model_params = [lr_params, dt_params, svm_params, knn_params, xgb_params, lgbm_p
  **- 패턴분석이 완료된 한글 스팸 데이터셋을 발견하지 못해 외국의 데이터를 사용한 것이 아쉬움**
  
  **- 향후 패턴분석이 된 한글 데이터셋을 활용하거나 직접 한글 스팸 메일 패턴분석을 진행하여 더 향상된 분석 필요**
+
+ ---
+ # 데이터 출처
+ 
+  https://archive.ics.uci.edu/dataset/94/spambase
+  https://www.kaggle.com/datasets/venky73/spam-mails-dataset
+
+
