@@ -280,7 +280,7 @@ model_params = [lr_params, dt_params, svm_params, knn_params, xgb_params, lgbm_p
  ---
  # 데이터 출처
  
-  https://archive.ics.uci.edu/dataset/94/spambase
-  https://www.kaggle.com/datasets/venky73/spam-mails-dataset
+  - https://archive.ics.uci.edu/dataset/94/spambase
+  - https://www.kaggle.com/datasets/venky73/spam-mails-dataset
 
 
