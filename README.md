@@ -104,17 +104,39 @@
   ### RandomizedSearchCV
 
   ```python
-  from sklearn.model_selection import RandomizedSearchCV
+  lr_params =  {
+            'penalty' : ['l1', 'l2'],
+            'C' : np.arange(200) / 10,
+            'solver' : ['lbfgs', 'newton-cg', 'liblinear']
+            }
+dt_params =  {
+            'max_depth' : range(1, 8),
+            'min_samples_split' : range(2, 11),
+            'min_samples_leaf' : range(2, 11)
+            }
+svm_params =  {
+            'C' : np.arange(200) / 10,
+            'kernel' : ['linear', 'poly', 'rbf', 'sigmoid']
+            }
+knn_params =  {
+            'n_neighbors' : range(3, 12, 2),
+            'algorithm' : ['auto', 'ball_tree', 'kd_tree', 'brute']
+            }
+xgb_params =  {
+            'learning_rate' : np.arange(101) / 100,
+            'max_depth' : range(3, 9)
+            }
+lgbm_params =  {
+            'learning_rate' : np.arange(101) / 100,
+            'max_depth' : range(3, 9)
+            }
+hist_gb_params =  {
+            'learning_rate' : np.arange(101) / 100,
+            'max_depth' : range(3, 9),
+            
+            }
 
-  model_best_params = []
-  model_best_estimators = []
-
-  for idx, model_ in enumerate(models_names):
-      rd_search = RandomizedSearchCV(model_, model_params[idx], cv=5, n_iter=100, random_state=0)
-      rd_search.fit(X_train, y_train)
-    
-      model_best_params.append(rd_search.best_params_)
-      model_best_estimators.append(rd_search.best_estimator_)
+model_params = [lr_params, dt_params, svm_params, knn_params, xgb_params, lgbm_params, hist_gb_params]
   ```
 
   <div align="center">
