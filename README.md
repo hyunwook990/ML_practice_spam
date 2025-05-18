@@ -34,6 +34,7 @@
 ## 1) 📊 EDA(Exploratory Data Analysis)
  * 데이터 전처리,인코딩 등
  * 이전 프로젝트의 진행내역 사용
+ * https://github.com/hyunwook990/EDA_pracice
 <p align="center">
   <img src="./readme_image/word_heatmap_2.png" height="300" width="350">
 </p>
